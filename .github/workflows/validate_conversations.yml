@@ -1,0 +1,13 @@
+name: Check
+
+on: [ push, pull_request ]
+jobs:
+  test:
+    name: Validate Conversations
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Validate Conversations
+        run: .github/workflows/validate_conversations.sh
+     
