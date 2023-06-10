@@ -58,7 +58,7 @@ System.out.println(Arrays.asList("Hello").get(1));
 
 What will this piece of code do?
 
-[:wave: Prints "Hello"](#prints-hello) [:boom: Throws an Exception](#throws-an-exception)
+[:wave: Prints "Hello"](#prints-hello-oooooo) [:boom: Throws an Exception](#throws-an-exception)
 
 ## Prints Hello
 
