@@ -1,45 +1,45 @@
-# Snow White
+# Snow White and the Seven Dwarfs
 
 ## Introduction
 Once upon a time, in a faraway land, lived a beautiful princess named Snow White. She encounters a small cottage in the woods where seven dwarfs live. What will Snow White do?
 
-[Enter the Cottage](#enter-cottage) [:wave: Leave the Cottage](#leave-cottage)
+[Enter the Cottage](#enter-the-cottage) [:wave: Leave the Cottage](#leave-the-cottage)
 
 ## Enter the Cottage
 
-Snow White decides to enter the cottage and discovers it belongs to seven dwarfs. She cleans the cottage and rests for a while. Suddenly, she hears a noise coming from the bedroom. What should Snow White do?
+Snow White decides to enter the cottage and discovers it belongs to the seven dwarfs. She cleans the cottage and rests for a while. Suddenly, she hears a noise coming from the bedroom. What should Snow White do?
 
-[:ok: Investigate the Noise](#investigate-noise) [:cry: Stay in the Living Room](#stay-living-room)
+[:ok: Investigate the Noise](#investigate-the-noise) [:cry: Stay in the Living Room](#stay-in-the-living-room)
 
 ## Leave the Cottage
 
 Snow White decides to leave the cottage and continue her journey through the woods. As she walks deeper into the forest, she stumbles upon a clearing with a sparkling lake. What should Snow White do?
 
-[:ok: Refresh Herself by the Lake](#refresh-by-lake) [:cry: Keep Exploring the Woods](#keep-exploring)
+[:ok: Refresh Herself by the Lake](#refresh-herself-by-the-lake) [:cry: Keep Exploring the Woods](#keep-exploring-the-woods)
 
 ## Investigate the Noise
 
 Snow White follows the noise and discovers the seven dwarfs returning home from work. They are surprised to find her in their cottage. How will Snow White explain her presence?
 
-[:ok: Introduce Herself](#introduce-herself) [:cry: Hide and Observe](#hide-observe)
+[:ok: Introduce Herself](#introduce-herself) [:cry: Hide and Observe](#hide-and-observe)
 
 ## Stay in the Living Room
 
 Snow White decides to stay in the living room and wait for the dwarfs to return. She examines the objects in the room, including a magical mirror. What should Snow White do next?
 
-[:ok: Reflect in the Mirror](#reflect-mirror) [:cry: Explore the Backyard](#explore-backyard)
+[:ok: Reflect in the Mirror](#reflect-in-the-mirror) [:cry: Explore the Backyard](#explore-the-backyard)
 
 ## Refresh Herself by the Lake
 
 Snow White approaches the sparkling lake and splashes water on her face. As she looks into the clear water, she sees her reflection and notices something unusual. What does Snow White notice?
 
-[:ok: Her Reflection Changes](#reflection-changes) [:cry: Something Glitters Underwater](#glitters-underwater)
+[:ok: Her Reflection Changes](#her-reflection-changes) [:cry: Something Glitters Underwater](#something-glitters-underwater)
 
 ## Keep Exploring the Woods
 
 Snow White continues exploring the woods and comes across a small animal in distress. The animal seems to be caught in a trap. What should Snow White do?
 
-[:ok: Help the Animal](#help-animal) [:cry: Leave the Animal and Move On](#leave-animal)
+[:ok: Help the Animal](#help-the-animal) [:cry: Leave the Animal and Move On](#leave-the-animal-and-move-on)
 
 ## Introduce Herself
 
@@ -63,9 +63,9 @@ Snow White gazes into the magical mirror and asks who the fairest in the land is
 
 Snow White ventures into the backyard of the cottage and discovers a beautiful garden filled with colorful flowers. As she admires the flowers, she hears a soft voice singing. What should Snow White do?
 
-[:ok: Follow the Singing Voice](#follow-singing-voice) [:cry: Stay in the Garden](#stay-garden)
+[:ok: Follow the Singing Voice](#follow-the-singing-voice) [:cry: Stay in the Garden](#stay-in-the-garden)
 
-## Reflection Changes
+## Her Reflection Changes
 
 Snow White's reflection in the lake begins to change. It transforms into a familiar face. Who does Snow White see in her reflection?
 
@@ -75,7 +75,7 @@ Snow White's reflection in the lake begins to change. It transforms into a famil
 
 Snow White notices something glittering at the bottom of the lake. Curiosity overwhelms her. Should Snow White dive into the lake to investigate or resist the temptation?
 
-[:ok: Dive into the Lake](#dive-into-lake) [:cry: Resist the Temptation](#resist-temptation)
+[:ok: Dive into the Lake](#dive-into-the-lake) [:cry: Resist the Temptation](#resist-the-temptation)
 
 ## Help the Animal
 
@@ -87,7 +87,7 @@ Snow White approaches the trapped animal and carefully frees it from the trap. T
 
 Snow White hesitates but decides to leave the animal and continue her journey. She hopes the animal will find its way home. Snow White encounters a mysterious old woman in the woods. What should she do?
 
-[:ok: Engage in Conversation](#conversation) [:cry: Walk Away](#walk-away)
+[:ok: Engage in Conversation](#engage-in-conversation) [:cry: Walk Away](#walk-away)
 
 ## Follow the Singing Voice
 
