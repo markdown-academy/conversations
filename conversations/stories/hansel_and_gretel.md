@@ -57,7 +57,7 @@ Hansel and Gretel choose to continue on their own without the help of the talkin
 
 The old woman turns out to be friendly. She offers Hansel and Gretel delicious treats and helps them find their way back home.
 
-[:ok: Return Home with Gifts](#return-home-with-gifts) [:cry: Uncover the Witch's Secret](#uncover-the-witchs-secret)
+[:ok: Return Home with Gifts](#return-home-with-gifts) [:cry: Uncover the Witch's Secret](#uncover-the-witch-s-secret)
 
 ## Suspicious Old Woman
 
