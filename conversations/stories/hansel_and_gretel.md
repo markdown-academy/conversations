@@ -1,15 +1,15 @@
-# Hansel and Gretel
+# Hansel and Gretel Adventure
 
 ## Introduction
 Once upon a time, in a small village, lived two siblings named Hansel and Gretel. They were very curious and adventurous. One day, they stumbled upon a mysterious forest. What will they do?
 
-[Explore the Forest](#explore-forest) [:wave: Leave the Forest](#leave-forest)
+[Explore the Forest](#explore-the-forest) [:wave: Leave the Forest](#leave-the-forest)
 
 ## Explore the Forest
 
 Hansel and Gretel decide to explore the forest. As they walk deeper into the woods, they notice a trail of breadcrumbs left behind. Should they follow the breadcrumbs or ignore them?
 
-[:ok: Follow the Breadcrumbs](#follow-breadcrumbs) [:cry: Ignore the Breadcrumbs](#ignore-breadcrumbs)
+[:ok: Follow the Breadcrumbs](#follow-the-breadcrumbs) [:cry: Ignore the Breadcrumbs](#ignore-the-breadcrumbs)
 
 ## Leave the Forest
 
@@ -21,25 +21,25 @@ Hansel and Gretel decide to leave the forest and head back home. They realize th
 
 Hansel and Gretel decide to follow the breadcrumbs. The trail leads them to a gingerbread house. It looks delicious, but something feels strange about it. What should they do?
 
-[:ok: Knock on the Door](#knock-door) [:cry: Turn Back](#turn-back)
+[:ok: Knock on the Door](#knock-on-the-door) [:cry: Turn Back](#turn-back)
 
 ## Ignore the Breadcrumbs
 
 Hansel and Gretel ignore the breadcrumbs and venture deeper into the forest. They come across a talking bird who offers to guide them. Should they trust the talking bird or continue on their own?
 
-[:ok: Trust the Talking Bird](#trust-bird) [:cry: Continue on Their Own](#continue-own)
+[:ok: Trust the Talking Bird](#trust-the-talking-bird) [:cry: Continue on Their Own](#continue-on-their-own)
 
 ## Knock on the Door
 
 Hansel and Gretel gather their courage and knock on the door of the gingerbread house. An old woman opens the door and invites them inside. Is the old woman friendly or hiding something?
 
-[:ok: Friendly Old Woman](#friendly-woman) [:cry: Suspicious Old Woman](#suspicious-woman)
+[:ok: Friendly Old Woman](#friendly-old-woman) [:cry: Suspicious Old Woman](#suspicious-old-woman)
 
 ## Turn Back
 
 Hansel and Gretel decide to turn back from the gingerbread house. They continue exploring the forest, hoping to find another adventure.
 
-[:ok: Discover a Magical Lake](#magical-lake) [:cry: Encounter a Fierce Beast](#fierce-beast)
+[:ok: Discover a Magical Lake](#discover-a-magical-lake) [:cry: Encounter a Fierce Beast](#encounter-a-fierce-beast)
 
 ## Trust the Talking Bird
 
@@ -57,7 +57,7 @@ Hansel and Gretel choose to continue on their own without the help of the talkin
 
 The old woman turns out to be friendly. She offers Hansel and Gretel delicious treats and helps them find their way back home.
 
-[:ok: Return Home with Gifts](#return-gifts) [:cry: Uncover the Witch's Secret](#witch-secret)
+[:ok: Return Home with Gifts](#return-home-with-gifts) [:cry: Uncover the Witch's Secret](#uncover-the-witchs-secret)
 
 ## Suspicious Old Woman
 
@@ -65,17 +65,17 @@ Hansel and Gretel become suspicious of the old woman. They manage to escape from
 
 [> The End](#the-end)
 
-## Magical Lake
+## Discover a Magical Lake
 
 Hansel and Gretel discover a magical lake hidden within the forest. They encounter a friendly water nymph who grants them a special gift. What should they choose?
 
-[:ok: Gift of Invisibility](#invisibility-gift) [:cry: Gift of Super Strength](#strength-gift)
+[:ok: Gift of Invisibility](#gift-of-invisibility) [:cry: Gift of Super Strength](#gift-of-super-strength)
 
-## Fierce Beast
+## Encounter a Fierce Beast
 
 As Hansel and Gretel continue their journey, they come face to face with a fierce beast. Should they try to fight the beast or find another way to escape?
 
-[:ok: Fight the Beast](#fight-beast) [:cry: Find an Escape Route](#escape-route)
+[:ok: Fight the Beast](#fight-the-beast) [:cry: Find an Escape Route](#find-an-escape-route)
 
 ## Return Home with Gifts
 
@@ -89,13 +89,13 @@ Hansel and Gretel uncover the old woman's true identity - a wicked witch! They o
 
 [> The End](#the-end)
 
-## Invisibility Gift
+## Gift of Invisibility
 
 Hansel and Gretel choose the gift of invisibility. With this power, they embark on more daring adventures, exploring hidden realms and uncovering ancient secrets.
 
 [> The End](#the-end)
 
-## Strength Gift
+## Gift of Super Strength
 
 Hansel and Gretel choose the gift of super strength. With their newfound power, they become protectors of the forest, defending it from any threats that may arise.
 
