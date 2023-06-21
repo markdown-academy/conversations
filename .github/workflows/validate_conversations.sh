@@ -13,7 +13,7 @@ validate_file() {
     local file="$1"
     local relative_path="${file#${CURRENT_DIR}/}"  # Remove the conversations folder path from the file
     echo "Validating: ${relative_path}"
-    docker run -v "${CURRENT_DIR}:/data" 693201755147.dkr.ecr.eu-west-1.amazonaws.com/markdown-academy-cli:latest validate "/data/${relative_path}"
+    docker run -v "${CURRENT_DIR}:/data" public.ecr.aws/x4o8p4r2/markdown-academy-cli validate "/data/${relative_path}"
 }
 
 # Recursive function to process files
